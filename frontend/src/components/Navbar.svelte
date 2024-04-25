@@ -8,8 +8,8 @@
 
 <header>
     <nav
-        class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"
-        style="background-color: #343b45!important;">
+        class="navbar navbar-expand-md  fixed-top bg-primary"
+        style="background-color: #e3f2fd!important;">
         <div class="container-fluid">
             <a class="navbar-brand" href="/" style="font-size: 13px;">BACKEND</a>
             <button class="navbar-toggler"
