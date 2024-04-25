@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  frontend-backend:
+    container_name: frontend-backend
+    image: frontend-backend:0.0.1
+    build: .
+    volumes:
+    - ./svelte:/app/svelte
+    ports:
+      - 2222:2222
+    restart: always
