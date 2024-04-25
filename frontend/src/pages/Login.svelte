@@ -78,9 +78,10 @@
 <div class="container" style="margin-top: 20px;">
     <div class="row">
         <div class="col-md-4 offset-md-4">
-            <div class="card mt-1" style="padding: 5px;">
-                <div class="card-header" style="background-color: #343b45;border-radius: 0px;">
-                    <span style="color:white;font-weight: bold;font-size: 15px;">LOGIN BACKEND</span>
+            <div class="card mt-1" style="padding: 5px;border-radius: 0px;">
+                <div class="card-header" style="background-color: white;border-radius: 0px;">
+                    <span style="color:black;font-weight: bold;font-size: 15px;">LOGIN BACKEND</span><br />
+                    <span style="color:black;font-size: 12px;">Selamat datang di GROUP SDSb</span><br />
                 </div>
                 <div class="card-body" style="padding:10px;">
                     <div class="mb-3">
